@@ -1,0 +1,2 @@
+# ArcoLinuxB-Spectrwm Calamares configuration
+
